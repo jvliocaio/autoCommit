@@ -33,7 +33,8 @@ esac
 # git config --local user.email "john.doe@dominio.com.br"
 #
 # git config --local user.name "John Doe"
-#git remote add origin "$REPO"
+
+git remote add origin "$REPO"
 #
  git add .
 #
